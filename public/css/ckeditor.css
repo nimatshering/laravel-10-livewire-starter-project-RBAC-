@@ -1,0 +1,27 @@
+#ckeditor {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#ckeditor td,
+#ckeditor th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#ckeditor tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#ckeditor tr:hover {
+  background-color: #ddd;
+}
+
+#ckeditor th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
